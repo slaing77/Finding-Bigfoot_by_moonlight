@@ -1,6 +1,7 @@
 # FINDING BIGFOOT BY MOONLIGHT								
 Analysis by S.R. Laing	
-<p>I've been tooling around with UFO data scraped from NUFORC and generously offered up on Kaggle, I figured a project on Bigfoot would fit the vibe of my small but growing portfolio. My twitter bio proclaims I'm a data analyst with a taste of the obscure (or was that absurd?) Either way, it fits.</p>
+<p>I've been tooling around with UFO data scraped from NUFORC and generously offered up on Kaggle, I figured a project on Bigfoot would fit the vibe of my small but growing portfolio.
+	
 I began this project with the germ of an idea, a silly, fun, easy whip this off in two days kind of idea. 
 It all started with a day dream of chasing Sasquatches across the Pacific North-West via my tableau. I promptly fell down a celestial rabbit hole, and stayed there for the better part of a week! 	 
 
@@ -13,8 +14,7 @@ It all started with a day dream of chasing Sasquatches across the Pacific North-
 								
 While navigating the dataset, I took special interest in the geocode tables. These tables recorded such things as the amount of cloud cover, precipitation, uv index, visibility and fractional moon light as recorded at the time of the reported sighting. 
 
-This is where I stumbled upon my BIG QUESTION							
-Actually, two big questions.										
+This is where I stumbled upon my BIG QUESTION															
 								
 									
 # The first big question was:
@@ -24,19 +24,18 @@ Could I predict the likeliest dates for Bigfeet sightings by charting the moon?
 Pretty quickly, I mean really quickly without collecting or cleaning any data I learned that yes, of course I could predict which phase of the moon is best to catch a glimpse of the elusive beast.									
 I mean, people have been studying Yeti for centuries and apparently I am not the first person to ponder this question.  In this century, we have things like radar and isotopes and DNA analysis.  Of course people have peeked to see if the moon has any behavioural affects on the mighty Big Foot.									
 There are plenty of sightings, over 4,947 reports across North America between 1921-2021.	
-But to date: no remains, no habitats, no DNA have been confirmed as belonging to the notoriously shy bi-pedal hominid we call The Sasquatch.									
+But to date: no remains, no habitats, no DNA have been confirmed as belonging to the notoriously shy bi-pedal hominid we call The Sasquatch.		
+
 Other parts of the world have counterparts, such as the Yeti of the Himalayan Mountains and yet, no physical evidence of their existence has turned up either.									
 									
 With these questions in mind, I began cleaning my data. (see notes on ETL in addendum for more info on that process)									
-I got through some minor hurdles, and was feeling good.  I had some idea's in mind.  I went a little deeper and thats when I recognized the BIG ISSUE.									
-Thinking about how to solve the BIG ISSUE, brought me to my real BIG QUESTION.  
-Thinking on my big question brought me to my HYPOTHESIS.									
+I got through some minor hurdles, and was feeling good.  I had some idea's in mind.  I went a little deeper and thats when I recognized the BIG ISSUE.																
 									
 * The BIG ISSUE :
 HOW to match the Lunar Cycle to Diurnal information when there is no record of TIME in the dataset?                                        									
 This is where my determined nature paid off. I could have seen the issue with the time stamps and ditched the whole thing in favour of an easier, cleaner data set. But, that just isn't how I roll.  I like roads less travelled and poking mysterious things just to see what that might do. As far as I could tell, this data set was the one for me.														
 									
-* The BIG QUESTION:		
+* The BIGGER QUESTION:		
 Can the DAY of a past event be determined by the fractional representation of Moon Light recorded on the day of the event?									
 The answer is Yes!									
 									
@@ -53,7 +52,7 @@ The lunar cycle is approximately 30 days give or take several hours. Day 1 of th
 This will cause some issues with months that have thirty one days that I will have to solve at another time.  
 *For the scope of this project I am only working with the lunar month days.*  	
 
-The *big BIG question* is a bit out of the scope for this project. 
+The *big BIGGER question* is a bit out of the scope for this project. 
 Which brings me to the planning stage of CHAPTER TWO which I will touch on briefly:
 
 # CHAPTER TWO
@@ -67,7 +66,6 @@ I can then plot those lunar periods backwards and forwards and determine a date 
 # Back to the task at hand
 ###### The Hypothesis!									
 My hypothesis:  Bigfoot sightings CAN be predicted on the fractional amount of moonlight on any given day.									
-												
 The null hypothesis:  There is NO significant relationship between moonlight and Bigfoot sightings :(								
 Alternative hypothesis: There IS a significant relationship between moonlight and Bigfoot sightings :)								
 								
