@@ -131,34 +131,40 @@ We know the brightest and the darkest time of the lunar month are the least like
 
 # Closing with a mystery
 
-One thing that caught my eye were two time periods.  The late 70's early 80's had a small bump in reported sightings that mirror a much larger bump in the early '00's as you can see below.  
+One thing that caught my eye were two distinct time periods. The late ’70s and early ’80s showed a small bump in reported sightings that mirrored a much larger bump in the early 2000s, as you can see below.
 
 
 ![Sightings over time](https://github.com/slaing77/Finding-Bigfoot_by_moonlight/blob/fbd2728ee92b7b7977841a23dab3dbd53bf60d67/docs/images/Sightings%20over%20time.png)
 
-I found this intriguing and decided to see if media had anything to do with the jumps. Thinking of the infamous Patterson-Gimlin film. I went to wikipedia and learned it was first released into the wild in 1967. A full decade before the time period in question.  
+I found this intriguing and decided to see if media had anything to do with the jumps. I started with the infamous Patterson-Gimlin film. A quick trip to Wikipedia told me it was first released into the wild in 1967, a full decade before the first time period in question.
 
 By <a href="//en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film" title="Patterson–Gimlin film">Patterson–Gimlin film</a>, Fair use, <a href="https://en.wikipedia.org/w/index.php?curid=434396">Link</a>
 
 ![Patterson–Gimlin_film_frame_352](https://user-images.githubusercontent.com/90716926/145883697-88263654-1b6a-4e16-87e7-9c89eb23c528.jpg)
 
-My mind then scurried off to Harry and the Henderson's.  When I checked that title, I saw the series didn't air until the late 80's.  Outside of the time bump.  
-I realized I was on the precipice of yet another rabbit hole when I began searching the IMDB for terms like Bigfoot, Sasquatch and Yeti looking for some kind of star powered box office hit to explain the uptick in sightings.  I came a way with a handful of B movies, none with a rating higher than 5.5, but my google searched revealed something very intriguing indeed.
+My mind then scurried off to Harry and the Hendersons. When I checked that title, I discovered the series didn’t air until the late ’80s, outside the time bump.
+
+I realized I was on the precipice of yet another rabbit hole when I started searching IMDb for terms like Bigfoot, Sasquatch, and Yeti, looking for some kind of star-powered box-office hit that might explain the uptick in sightings.
+
+I came away with a handful of B-movies, none with a rating higher than 5.5. But my Google searches revealed something very intriguing indeed.
 
 ### Alleged Bigfoot attack in Ape Canyon
 ([Alleged Bigfoot attack in Ape Canyon](https://en.wikipedia.org/wiki/Ape_Canyon#Alleged_Bigfoot_attack))
 			
 On July 16, 1924 the Oregonian reported on an alleged violent encounter ‘between a group of miners and a group of  Ape men”, resulting in the death of an ape man, by bullet wound.
 
-Nearly sixty years later a man named William Halliday born only two years after the infamous tale was printed in the Oregonian,  appeared to have some inside knowledge on this event. In 1983, now the director of the Western Speleological Survey,Halliday released a pamphlet called **‘Ape Cave and the Mount Saint Helens Apes’**  wherein he outed the real assailants as local youth throwing rocks from the canyons above.  The sun light was behind them, concealing their features and throwing wicked shadows. Thus an urban legend was born.
-<p>I still have no insight as to what caused these two bumps in reported activity, but I do wonder if the uptick in BigFoot interest created a sense of urgency in William to set the record straight. </p>
+Nearly sixty years later a man named William Halliday who born two years after the infamous tale was printed in the Oregonian,  appeared to have some inside knowledge on this event. In 1983, Halliday, now director of the Western Speleological Survey, released a pamphlet called Ape Cave and the Mount Saint Helens Apes, in which he offered a very different explanation for the encounter. According to Halliday, the real assailants were local youths throwing rocks from the canyons above. The sunlight was behind them, concealing their features and throwing wicked shadows.
+
+Thus, an urban legend was born.
+
+<p>I still have no insight into what caused these two bumps in reported activity, but I do wonder if the uptick in Bigfoot interest created a sense of urgency in Halliday to set the record straight.</p>p>
 
 As a last note I came across this interesting tidbit ([FBI release files from 1970's on hair samples](https://youtu.be/1E3XID7z8ZQ))
 ### Spoiler Alert:
 93 year old Peter Byrne, Bigfoot enthusiast finally finds out what happened to the sample of hair he sent into the FBI in 1976.
 The results had been 'lost' in the mail for decades. When the FBI recently released their own Bigfoot file, they revealed Mr. Byrnes sample had been determined to belong to some type of deer.
 
-I bring this up because one astonishing witness account in the data set mirrors Mr. Byrnes experience.
+Another astonishing witness account in the data set mirrors Mr. Byrnes experience.
 The account is quite long and detailed.  Report #60 is out of Skagit county, WA and was logged in 1994, the date of the actual sighting is missing and therefore this account is not included in my population for analysis. The report discusses multiple sightings over a period of time.  This entry focuses on two recluse ranchers (brothers) and attacks on their livestock, witness accounts of bi-pedal hairy beasts and the collection of dung which was sent off to the lab for analysis.  
 
 The results were, unlike my hypothesis ... **inconclusive.**		
